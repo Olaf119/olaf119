@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Alisher Makhmutov&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Alisher-Makhmutov&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Software+Engineer)]()
@@ -187,15 +187,15 @@
 <b>☄️ Github Streaks</b>
   
   <br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BigStar-2024&theme=gotham&hide_border=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=olaf119&theme=gotham&hide_border=true" />
 
 
 <b>📊 Total Contribution Graph</b>
 
 </br>
 <p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=BigStar-2024&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BigStar-2024&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=olaf119&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=olaf119&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph bigstar-app end -->
