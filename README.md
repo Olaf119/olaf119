@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsul-e-render.vercel.app/api?text=The only way to do great work is to love what you do.&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsul-e-render.vercel.app/api?text=The-only-way-to-do-great-work-is-to-love-what-you-do.&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Talent+Senior+Full+Stack+Developer;Senior+Software+Engineer)]()
